@@ -11,6 +11,10 @@ https://www.datos.gov.co/Agricultura-y-Desarrollo-Rural/Base-de-datos-relacionad
 Autores:
 Karen Barrantes y Andres Gomez
 
+Aplicación desplegada:
+https://datosalau.streamlit.app/
+
+
 Video explicativo de instalación:
 
 
