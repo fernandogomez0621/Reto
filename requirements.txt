@@ -8,3 +8,4 @@ pmdarima
 groq
 openpyxl
 unidecode
+pytest
