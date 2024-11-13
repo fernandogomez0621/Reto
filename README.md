@@ -27,12 +27,12 @@ Anexos: Manual de instalación.
 
 Modulos con resumenes e información adicional asistida por LLM (Se pulsa el boton y se genera el resumen):
 ---
--Mapa de Hectáreas por Departamento
--Hectáreas por SubRegión
--Distribución por Zona UPRA
--Distribución por Sistema Siembra
--Nombres Comunes y Científicos
--Modo Siembra
+1) Mapa de Hectáreas por Departamento
+2) Hectáreas por SubRegión
+3) Distribución por Zona UPRA
+4) Distribución por Sistema Siembra
+5) Nombres Comunes y Científicos
+6) Modo Siembra
 
 
 Todas las visualización, ajustes y modelos:
