@@ -1,3 +1,7 @@
+Aplicación desplegada:
+---
+https://datosalau.streamlit.app/
+
 Cordial saludo,
 
 Por medio del presente aplicativo, se permite un analisis de la información de las plantaciones en colombia a nivel departamental, regional, por zonas upra, modos y sistemas de siembra, predicciones por medio de machine learning (modelos arima y sarima) de las hectareas en años futuros de acuerdo al comportamiento de los datos. Explicaciones de las especies y su importancia asistido por modelos LLM; asi como tambien resumenes de la información a partir de inteligencia artifical y tambien una visualización geoespacial de las hectareas plantadas en colombia con las principales especies y su cantidad de hectareas en el departamento.
@@ -17,12 +21,12 @@ Análisis de la información: Implementación de machine learning (modelos ARIMA
 
 
 
-Aplicación desplegada:
-https://datosalau.streamlit.app/
 
 Anexos: Manual de instalación.
-----
+
+
 Modulos con resumenes e información adicional asistida por LLM (Se pulsa el boton y se genera el resumen):
+---
 -Mapa de Hectáreas por Departamento
 -Hectáreas por SubRegión
 -Distribución por Zona UPRA
@@ -32,6 +36,7 @@ Modulos con resumenes e información adicional asistida por LLM (Se pulsa el bot
 
 
 Todas las visualización, ajustes y modelos:
+---
 1) Especies
 2) Origen
 3) Especies por Departamento
