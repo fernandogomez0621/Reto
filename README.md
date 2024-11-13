@@ -19,7 +19,7 @@ Karen Barrantes y Andres Gomez
 Aplicación desplegada:
 https://datosalau.streamlit.app/
 
+Anexos: Manual de instalación.
 
-Video explicativo de instalación:
-
+Gracias por su atención.
 
