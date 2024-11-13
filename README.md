@@ -35,7 +35,7 @@ Modulos con resumenes e información adicional asistida por LLM (Se pulsa el bot
 6) Modo Siembra
 
 
-Todas las visualización, ajustes y modelos:
+Todas las visualizaciones, ajustes y modelos:
 ---
 1) Especies
 2) Origen
