@@ -6,6 +6,8 @@ Cordial saludo,
 
 Por medio del presente aplicativo, se permite un analisis de la información de las plantaciones en Colombia a nivel departamental, regional, por zonas upra, modos y sistemas de siembra, predicciones por medio de machine learning (modelos arima y sarima) de las hectareas en años futuros de acuerdo al comportamiento de los datos. Explicaciones de las especies (nombre comun y/o cientifico) y su importancia asistido por modelos LLM; asi como tambien resumenes de la información presentada a partir de inteligencia artifical, junto con una visualización geoespacial de las hectareas plantadas en colombia con las principales especies y su cantidad de hectareas en el departamento.
 
+Esta solución permite visualizar los cultivos de interes en Colombia y las hectareas que ocupan, tambien a nivel de departamento; junto con su evolución en el tiempo y posibilita observar que departamentos requieren mas apoyo en determinados modos y sistemas de siembras a nivel detallado. Asi mismo, conocer mas acerca de las especies plantadas, sus modos y sistemas de siembra, zonas upra, etc.
+
 
 Datos utilizados:
 
